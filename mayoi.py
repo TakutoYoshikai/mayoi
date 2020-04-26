@@ -41,5 +41,5 @@ def mayoi(text):
     return say(text, mayoi_convert)
 
 def tsubasa(text):
-    return say(text, tubasa_convert)
+    return say(text, tsubasa_convert)
 

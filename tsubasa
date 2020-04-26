@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+from mayoi import *
+import sys
+
+
+print(tsubasa(sys.argv[1]))
+
